@@ -1,0 +1,7 @@
+C:\Users\s198031\source\repos\GameFrameWork\GameFrameWork\bin\Debug\GameFrameWork.exe.config
+C:\Users\s198031\source\repos\GameFrameWork\GameFrameWork\bin\Debug\GameFrameWork.exe
+C:\Users\s198031\source\repos\GameFrameWork\GameFrameWork\bin\Debug\GameFrameWork.pdb
+C:\Users\s198031\source\repos\GameFrameWork\GameFrameWork\obj\Debug\GameFrameWork.csprojAssemblyReference.cache
+C:\Users\s198031\source\repos\GameFrameWork\GameFrameWork\obj\Debug\GameFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\s198031\source\repos\GameFrameWork\GameFrameWork\obj\Debug\GameFrameWork.exe
+C:\Users\s198031\source\repos\GameFrameWork\GameFrameWork\obj\Debug\GameFrameWork.pdb
